@@ -1,4 +1,4 @@
-<p align="center"><img src="slides/slide1.jpg" width="420" alt="Money Talks Club, le dîner avant-première"></p>
+<p align="center"><img src="slide1.jpg" width="420" alt="Money Talks Club, le dîner avant-première"></p>
 
 <h2 align="center">Les convives</h2>
 <p align="center">Touche un portrait pour ouvrir son LinkedIn.</p>
@@ -17,7 +17,7 @@
 </table>
 
 <h2 align="center">Le programme</h2>
-<p align="center"><img src="slides/slide2.jpg" width="420" alt="Le programme du dîner"></p>
+<p align="center"><img src="slide2.jpg" width="420" alt="Le programme du dîner"></p>
 
 <p align="center">
 Version à faire défiler : <a href="https://celinlin.github.io/money-talks-club-diner-1/">celinlin.github.io/money-talks-club-diner-1</a><br>
